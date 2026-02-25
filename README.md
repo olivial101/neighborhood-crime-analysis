@@ -2,7 +2,7 @@
 Assignment 2 from Introduction to Quantitative Analysis, Michaelmas Term, MPhil Criminology at the University of Cambridge, taught by Professor Charles Lanfear.
 
 ### Data Description
-These data describe 343 neighborhoods in a major city observed over a 10 year period. This analysis looks at disadvantage, instability, and informal social control. This analysis involves descriptive statistics, regression modeling, and visualization.
+These data describe 343 neighborhoods in a major city observed over a 10 year period. This analysis looks at disadvantage, instability, and informal social control. This analysis involves descriptive statistics, regression modeling, model comparison, and visualization.
 
 ### File Information
 - **neighborhood-crime-analysis_files:** Includes subfolder with _visualizations_
